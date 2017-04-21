@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon class homework.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dusterdieck/bamazon.git"
+  },
+  "author": "Timothy Dusterdieck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dusterdieck/bamazon/issues"
+  },
+  "homepage": "https://github.com/dusterdieck/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "format-currency": "^1.0.0",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
